@@ -1,0 +1,24 @@
+body{
+    
+    color: black;
+    background-image:url("Screenshot 2024-09-08 020906.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin:3px;
+    background-color: chartreuse;
+    
+}
+button{
+    background-color: green;
+    color:beige;
+    padding: left 4px;
+    
+}
+#box{
+    color:white;
+    text-decoration: none;
+}
